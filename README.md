@@ -11,4 +11,6 @@ Dataset: https://drive.google.com/file/d/1fvhiqN7b6E3j697F_LzR9YpJmPTrlHPz/view
 
 ## Credit Risk Prediction
 Dataset: https://www.kaggle.com/datasets/mirzahasnine/loan-data-set
-Disease Risk Prediction
+
+## Disease Risk Prediction
+Dataset: https://github.com/jini-the-coder/Diseaseprediction
