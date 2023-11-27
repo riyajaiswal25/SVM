@@ -5,7 +5,10 @@ This repository provides Python code implementations for Support Vector Machine 
 
 ## Credit Card Fraud Detection
 Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+
 ## Text Classification
 Dataset: https://drive.google.com/file/d/1fvhiqN7b6E3j697F_LzR9YpJmPTrlHPz/view
-Credit Risk Prediction,
+
+## Credit Risk Prediction
+Dataset: https://www.kaggle.com/datasets/mirzahasnine/loan-data-set
 Disease Risk Prediction
